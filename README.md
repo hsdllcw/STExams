@@ -30,5 +30,10 @@
 # 什么是自考
 高等教育自学考试（Self-taught higher education examinations），简称自学考试、自考。高等教育自学考试是个人自学和国家考试相结合的高等教育形式，是中国大陆高等教育体系的重要组成部分。1981年经中国国务院批准创立，是对自学者进行的以学历考试为主的高等教育国家考试，考生主要有两种学习方式，一是在高等院校举办的助学点学习或进入本校进行全日制学习(学生采用这种学习方式称为应用型考生)，二是在社会举办的助学单位学习或自学(用这种学习方式的学生称为社会型考生)。
 
+# 版权声明
+所有资料均来自网友上传或从互联网是收集而得。如果您认为本项目中分享的文件侵犯了您的权益可以及时联系我，填写相关说明信息，并上传版权证明，确认后将删除侵权文件。
+1. 在Issue中提出（[点击这里](https://github.com/hsdllcw/Self-taught-higher-education-examinations/issues/new?assignees=&labels=new+files&template=new-files-attach.md&title=)）
+2. 发送邮件至zikao@doyouremember.xyz
+
 # LICENSE
 MIT-LICENSE
